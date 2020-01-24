@@ -1,6 +1,6 @@
 ###  Genome-resolved metagenomics reveals niche partitioning within the switchgrass rhizosphere microbiome
 
-Manuscript is currently in process
+Manuscript is currently submitted to phytobiomes
 
 This is the code for processing raw sequence reads, assembly, binning,plots, and statistical analysis for this article. 
 
