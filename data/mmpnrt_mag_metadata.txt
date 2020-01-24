@@ -1,0 +1,9 @@
+Sample	Type	Replicate	Urease_inhibitor	Nitrate_inhibitor	Block	Nitrogen
+P1	Post 	1	Yes	Yes	B1	Pos
+P2	Post 	2	Yes	Yes	B2	Pos
+P3	Post 	3	Yes	Yes	B3	Pos
+P4	Post 	4	Yes	Yes	B4	Pos
+I1	Pre	1	No	No	B1	Neg
+I2	Pre	2	No	No	B2	Neg
+I3	Pre	3	No	No	B3	Neg
+I4	Pre	4	No	No	B4	Neg
