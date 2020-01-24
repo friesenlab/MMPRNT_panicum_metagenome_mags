@@ -1,0 +1,12 @@
+phyla	count	
+Actinobacteriota	3	
+Acidobacteriota	8	
+Nitrospirota	4	
+Eisenbacteria	1	
+Gemmatimonadota	2	
+Myxococcota	1	
+Dormibacterota (AD3)	2	
+Verrucomicrobiota	1	
+Proteobacteria	5	
+UBA10199	1	
+Chloroflexota	1	
