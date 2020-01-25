@@ -1,8 +1,6 @@
 ###  Genome-resolved metagenomics reveals niche partitioning within the switchgrass rhizosphere microbiome
 
-Manuscript is currently submitted to phytobiomes
-
-This is the code for processing raw sequence reads, assembly, binning,plots, and statistical analysis for this article. 
+Manuscript is currently submitted to Phytobiomes
 
 Genome-resolved metagenomics reveals niche partitioning within the switchgrass rhizosphere microbiome <br /> 
 Richard Allen White III, Aaron Garoutte, Emily E. Mclachlan, Lisa K. Tiemann, Sarah Evans, Maren L. Friesen. Phytobiomes. (APS) 
@@ -11,7 +9,7 @@ Richard Allen White III, Aaron Garoutte, Emily E. Mclachlan, Lisa K. Tiemann, Sa
 
 **Analysis**
 
-This repo holds a workflow script for processing Illumina sequencing read data and statistical analysis in R, and plots in ggplot2.  
+This repo holds a workflow script for processing Illumina sequencing read data, statistical analysis in R, and plots in ggplot2.  
 
 **Data**
 
