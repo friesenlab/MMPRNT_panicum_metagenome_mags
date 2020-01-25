@@ -1,0 +1,5 @@
+stats	Maxbin2	Metabat2
+Number	319	435
+Completeness	47.965	39.71
+Contamination	16.445	27.785
+High_quality	4.5	4
