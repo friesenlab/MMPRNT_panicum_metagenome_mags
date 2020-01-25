@@ -11,7 +11,7 @@ Richard Allen White III, Aaron Garoutte, Emily E. Mclachlan, Lisa K. Tiemann, Sa
 
 **Analysis**
 
-This repo holds a workflow script for processing Illumina sequencing read datam statistical analysis in R, and plots in ggplot2.  
+This repo holds a workflow script for processing Illumina sequencing read data and statistical analysis in R, and plots in ggplot2.  
 
 **Data**
 
