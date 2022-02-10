@@ -1,10 +1,9 @@
 ###  Genome-resolved metagenomics reveals niche partitioning within the switchgrass rhizosphere microbiome
 
-Manuscript is currently submitted to Phytobiomes
+Manuscript is currently submitted to MDPI Agronomy
 
 Genome-resolved metagenomics reveals niche partitioning within the switchgrass rhizosphere microbiome <br /> 
-Richard Allen White III, Aaron Garoutte, Emily E. Mclachlan, Lisa K. Tiemann, Sarah Evans, Maren L. Friesen. Phytobiomes. (APS) 
-[link](https://apsjournals.apsnet.org/toc/pbiomes/current)
+Richard Allen White III, Aaron Garoutte, Emily E. Mclachlan, Lisa K. Tiemann, Sarah Evans, Maren L. Friesen. 
 
 
 **Analysis**
